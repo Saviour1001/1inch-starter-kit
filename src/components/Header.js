@@ -15,8 +15,8 @@ function Header(props) {
         <Link to="/" className="link">
           <div className="headerItem">Swap</div>
         </Link>
-        <Link to="/tokens" className="link">
-          <div className="headerItem">Tokens</div>
+        <Link to="/screens" className="link">
+          <div className="headerItem">More Screens</div>
         </Link>
       </div>
       <div className="rightH">
